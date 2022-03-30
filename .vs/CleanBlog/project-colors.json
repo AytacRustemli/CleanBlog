@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee5d4e74-359a-44f3-aaf2-2e775014bdd2": {
+      "ProjectGuid": "ee5d4e74-359a-44f3-aaf2-2e775014bdd2",
+      "DisplayName": "Web",
+      "ColorIndex": 0
+    },
+    "fc217c02-8cd4-4682-88a0-7c488d44f439": {
+      "ProjectGuid": "fc217c02-8cd4-4682-88a0-7c488d44f439",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "34e92ed1-8edb-4607-9cdc-6949f203f854": {
+      "ProjectGuid": "34e92ed1-8edb-4607-9cdc-6949f203f854",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 2
+    },
+    "1e93311d-26af-4c42-9048-ad0fd23aaeae": {
+      "ProjectGuid": "1e93311d-26af-4c42-9048-ad0fd23aaeae",
+      "DisplayName": "Helper",
+      "ColorIndex": 3
+    },
+    "dce0b724-351b-408b-8e54-10af08564ea5": {
+      "ProjectGuid": "dce0b724-351b-408b-8e54-10af08564ea5",
+      "DisplayName": "Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
